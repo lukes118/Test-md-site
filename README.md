@@ -7,7 +7,8 @@ Learning jekyll
 
 > This is inlined
 
-'''
-python
+'''python
 import numpy as np
 '''
+
+$$ a \implies b $$
