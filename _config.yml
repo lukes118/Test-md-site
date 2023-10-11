@@ -1,0 +1,4 @@
+theme: Cayman
+
+markdown: kramdown
+  math_engine: katex
