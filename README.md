@@ -13,4 +13,4 @@ import numpy as np
 print("hello world")
 ```
 
-$$ a \implies b $$
+> $$ a \implies b $$
