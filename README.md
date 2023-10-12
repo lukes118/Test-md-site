@@ -14,3 +14,5 @@ print("hello world")
 ```
 
 > $$ a \implies b $$
+
+Here is some inline $ \LaTeX $
